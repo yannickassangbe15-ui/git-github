@@ -1,1 +1,2 @@
-//pgcd 
+//pgcd
+//ppcm 
